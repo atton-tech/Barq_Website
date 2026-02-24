@@ -1,0 +1,686 @@
+[
+  {
+    "path": "assets/images/Clients/Artivo/01.webp",
+    "sha": "034b27990c2b3df45047dc875e40720f3da09da4"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/02.webp",
+    "sha": "560fc3c4c93477418df98a41069fc68c82b2d129"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/03.webp",
+    "sha": "63a7a05b28d4bfa16e220e4c30fe249c0eb82552"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/04.webp",
+    "sha": "c4dcc5394eca7e3e5c8472e113560b366bacb63b"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/05.webp",
+    "sha": "ddefd6eb5621177b32bf7b943acdf87b63c548d8"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/thumbnail.webp",
+    "sha": "46cb6c41f16576e6a4e31839718b454306df9fea"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/06.webp",
+    "sha": "1360ba967267cbc015bf3e8b4007b2754eb975a5"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/07.webp",
+    "sha": "662c0f6befcbcda902d7799ba76f3ecbbfa7ae5c"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/08.webp",
+    "sha": "cd3491a568a1a3be399da545f2a1900154be8f55"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/09.webp",
+    "sha": "61cac1504dfa070ab49c76aaf5fabec582b73787"
+  },
+  {
+    "path": "assets/images/Clients/Artivo/10.webp",
+    "sha": "e62a8660c93102d96e51e2c51ad22f25e1acb55b"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/01.webp",
+    "sha": "13b62c65503c68594fcbb855c9846d6c6669dfd5"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/02.webp",
+    "sha": "fae54739fed52b0b64956867ec19b1ad79d56e72"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/03.webp",
+    "sha": "ec321381c08125becb51aed587541c2df024bc25"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/04.webp",
+    "sha": "982d70f4593b801dd990252bd59f8d1036e79452"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/05.webp",
+    "sha": "254be2144cc7385c2508048ed1fa8e41c2c3e8b2"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/thumbnail.webp",
+    "sha": "f6c9e6c5eaa0139f6db2d4041ab6bf5d8428dd07"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/06.webp",
+    "sha": "7255724e8ec87b7158ab4ce1f3392f94fa361ec3"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/07.webp",
+    "sha": "c335101cb7458da47ab7e455d2536ea1838fdccc"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/08.webp",
+    "sha": "c3d44932ae416ab9be651d630920f867aac207b0"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/09.webp",
+    "sha": "e17f89f0e9fd05e3579313ca226b7a6b34acd6c9"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/10.webp",
+    "sha": "beea801294f49fd824bac80dec8da03f2725d938"
+  },
+  {
+    "path": "assets/images/Clients/Cambridge/11.webp",
+    "sha": "d6a89541a4103a73ee9d16adcb0e27f73d1b5ce1"
+  },
+  {
+    "path": "assets/images/Clients/ISI/05.webp",
+    "sha": "125826a8f788010afb4ad5d14b79a0b13c771ba5"
+  },
+  {
+    "path": "assets/images/Clients/ISI/08.webp",
+    "sha": "2eded05465f02eea867e7bef26a6e89c372e0dcd"
+  },
+  {
+    "path": "assets/images/Clients/ISI/03.webp",
+    "sha": "40e7199328be7623d5758d40d2205f50dd5707bb"
+  },
+  {
+    "path": "assets/images/Clients/ISI/thumbnail.webp",
+    "sha": "a87eddfce2407c8d5128fd2a32dbdf549eee8416"
+  },
+  {
+    "path": "assets/images/Clients/ISI/09.webp",
+    "sha": "0fcdf33489b725ce7001e7f2bdc3a6c9f0eb39d0"
+  },
+  {
+    "path": "assets/images/Clients/ISI/04.webp",
+    "sha": "89b94978fb7e3072a65048064b1e44476090449f"
+  },
+  {
+    "path": "assets/images/Clients/ISI/06.webp",
+    "sha": "4e8c8841d1aab2aabf448670181f1bed91b8752e"
+  },
+  {
+    "path": "assets/images/Clients/ISI/07.webp",
+    "sha": "f38c09238c6035044cd44d53456770f8d4cdd4fe"
+  },
+  {
+    "path": "assets/images/Clients/ISI/10.webp",
+    "sha": "505e01a2437c14cdb4821d1723f87317dc803f47"
+  },
+  {
+    "path": "assets/images/Clients/ISI/02.webp",
+    "sha": "f3020bb48c009b0c625c8b7de4029383cc6d139f"
+  },
+  {
+    "path": "assets/images/Clients/ISI/01.webp",
+    "sha": "f4a5521d0de19a55d9592190ccd78e325faaa583"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/09.webp",
+    "sha": "a5eea459c4ebc84038b911ca0f3c665d231c499a"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/01.webp",
+    "sha": "f31412e6ab2b81951fca29131f2063c736bd1ea6"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/02.webp",
+    "sha": "d17f7ce1dc98ae432aa48e37ed06bcdff08513e6"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/10.webp",
+    "sha": "5f6ae4729cf697387ed2ac3856e3c2a21c52881a"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/03.webp",
+    "sha": "e68234812bf206ac6af6156e333575ce055c9877"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/11.webp",
+    "sha": "601d76bdcae5874d89b5de175c77f853f6345bc7"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/04.webp",
+    "sha": "663a64693a3ab81d1ae3b86ef86453a33f725579"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/12.webp",
+    "sha": "eb8575f43f4433a0a7699f7f18bd7ab3b14a0915"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/thumbnail.webp",
+    "sha": "58cde2fb8732804de68abd3eead274363a5d0a6c"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/06.webp",
+    "sha": "1d4b764f7689ec651cfdad921cd3197b3205f3d5"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/14.webp",
+    "sha": "720e9761351e17faa5289f742e436dc9bec369af"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/07.webp",
+    "sha": "6b75535cde6115509d6d457c0962e9367f57e75a"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/15.webp",
+    "sha": "36fc27d07663498fd4ee39398163403a69c44b9a"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/08.webp",
+    "sha": "8facc976012a5804dc0d37ecbaa86add43c19d59"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/16.webp",
+    "sha": "0d90f21de18a751a0cc1ac776fe31014d41476dc"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/28.webp",
+    "sha": "fb1a24da76aa8ede80bd5418835c7f62ef0d1e15"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/26.webp",
+    "sha": "abc6183eb2d1bdc42e3b1e0125c589b849c7e07c"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/24.webp",
+    "sha": "73ec3a6fd0bdaac2f88c7ad63978ab4ad0e8bbb3"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/27.webp",
+    "sha": "c9592d2103157333f6d506033221aacea95b2131"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/23.webp",
+    "sha": "115ef306fc5c8ff136b5f71b9caf4b280b3bc661"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/25.webp",
+    "sha": "823cc3cd41792bd012f70146c3fb7179cf3cdb1b"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/22.webp",
+    "sha": "838d3dcef1522db39eaf2810177c36c8b3d6bfb9"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/18.webp",
+    "sha": "99877b44ac72bb034b27c36fdc2aa3bce787fee9"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/20.webp",
+    "sha": "f2cfdba97b360f17cb0244e2f968b1a8cb95e18d"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/21.webp",
+    "sha": "7ba013ab1f0950e733963d6b634412abbd987eee"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/19.webp",
+    "sha": "cf6bec16b626f1cc2dd335c24f2f16c08c271859"
+  },
+  {
+    "path": "assets/images/Clients/Waqar/17.webp",
+    "sha": "f4cd27e6d16a614117eab1ed8b03f86529d8c752"
+  },
+  {
+    "path": "assets/images/Clients/MUNTO/01.webp",
+    "sha": "50c0b7e7fa298e72ea0224b1a8c1fff0b0fdef84"
+  },
+  {
+    "path": "assets/images/Clients/MUNTO/02.webp",
+    "sha": "db2903c0ff069fd980b098a0c66bb0a0e9f82bf2"
+  },
+  {
+    "path": "assets/images/Clients/MUNTO/thumbnail.webp",
+    "sha": "a99978ba3d4e8db86a205374437024ae8fbdf977"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/17.webp",
+    "sha": "8bebb618366783263cc46160fbedcbe3d1c78515"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/16.webp",
+    "sha": "84ddaad53387936a0427aeb5970da9ca099b85d1"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/18.webp",
+    "sha": "448b0098255951cac01f7f3c94e9d22d965967e8"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/02.webp",
+    "sha": "63ee88afad5f533d46e227b25914a1efb9396787"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/01.webp",
+    "sha": "f49ee1e576a0b0b6240e6e93d1d6517983b37c10"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/03.webp",
+    "sha": "3bcb92b3c7e5d91efadcb9a561f1372b9ad8e8cb"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/04.webp",
+    "sha": "0e665a6b7dc8d39b6a900e9667848b00e09c9895"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/05.webp",
+    "sha": "e60d28e88e81d67cb2beb6e97c28ad479cc161b1"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/06.webp",
+    "sha": "940ca6d70b2721320bceb88c7e5f53d780a408bd"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/07.webp",
+    "sha": "5e8c943bbbf84dad4de2976950ec5bbd21490dbb"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/thumbnail.webp",
+    "sha": "1c7f4ef1f4739d04691dc63d065269f76ea71c0a"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/09.webp",
+    "sha": "7a2b590c9f49da5e3aa9137184289ef641757ea5"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/19.webp",
+    "sha": "c8a40a3fcbf322d5cc309e1761e1ae5d0e1e5958"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/20.webp",
+    "sha": "9200c04eac5af88955123cac1982c3f443a060f1"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/21.webp",
+    "sha": "ef8bd3458a2358fe3aa9ea318a3dc39b6228f083"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/22.webp",
+    "sha": "314e09c127d8135e7b2f004a3883c701a30ccf83"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/10.webp",
+    "sha": "3add7a0e87c7aef1d30c69254662073256398582"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/15.webp",
+    "sha": "210941ce40356310e2643a79d736f121674a116b"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/12.webp",
+    "sha": "9bd5eeda6d124eaff9de5618d543414e9e870597"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/11.webp",
+    "sha": "ff2eb32306687032fbdfdc1de706f77874418ac6"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/13.webp",
+    "sha": "1da47b2ac4f4be606c375e84d81489bd6232cc55"
+  },
+  {
+    "path": "assets/images/Clients/عسكر الجنوب/14.webp",
+    "sha": "231886567917ac7276994cbc15cece3b28e5d36f"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/01.webp",
+    "sha": "1ed7f0cf7d247eb5fa9aa459ae1dd0e349bf7893"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/02.webp",
+    "sha": "6136eb33b4c2b5f41fd887ac249f1114f6feaaa5"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/14.webp",
+    "sha": "534dc893c25fd0b49baf08a23de7b2bb81b75f5d"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/12.webp",
+    "sha": "8aa43c0e7ee76adc087527718f8a2505369b01d6"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/38.webp",
+    "sha": "d37dd0322a82b4a9cb453044d64a2a3e2ff9a8df"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/35.webp",
+    "sha": "ad27474d751c2e799c9ebf604b82322271b468e1"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/32.webp",
+    "sha": "5b0efe630892d9636017edea8d2021af5d1c8912"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/thumbnail.webp",
+    "sha": "6bc5ababa1948d2b012a526f6b077ef49906cd97"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/13.webp",
+    "sha": "8142964ec3095335064849c14bf8d915dcdc8286"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/22.webp",
+    "sha": "296fc09cdfe4a13279bf0944b1f7010c86c29f8b"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/10.webp",
+    "sha": "0641dfce0f6ac3c38307219ea075c72e06a94d29"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/07.webp",
+    "sha": "c3e7442d549715618ddb86f996de7eabcb2c7a12"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/08.webp",
+    "sha": "7c7f5ae0e50619efd40b2c3eace4c186b9ea6f8a"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/09.webp",
+    "sha": "530f2d88a3c832f3903a839c22372eb510cb9417"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/21.webp",
+    "sha": "a9675a6e307397505cfdadd57cef773666371640"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/37.webp",
+    "sha": "d7f312bc91934d2fe07dd87ca0fe3c41e473aaed"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/26.webp",
+    "sha": "89129c5d6f93065d8d3db93db53a3ee2dd380268"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/25.webp",
+    "sha": "8b3489ef6e4ea119fe7660fb27dac7cde197cb26"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/41.webp",
+    "sha": "40c2633f85bc905cdf27261eb361de237bfe8642"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/03.webp",
+    "sha": "3fea17b3fcfdf7edf210714339917964b23d0468"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/40.webp",
+    "sha": "0a97972aadd4738464fe9fcdb6bd4b1846fcbb19"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/36.webp",
+    "sha": "b5e8fcc9e403b1a58e377f503e4168676ff04f0c"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/31.webp",
+    "sha": "e25704288884798e5f88350b77f661e370552530"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/33.webp",
+    "sha": "e25704288884798e5f88350b77f661e370552530"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/43.webp",
+    "sha": "af262c678a74a93798aee872dee62eb49e96d681"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/30.webp",
+    "sha": "8dcf15a73107cd83e67bd10676d55bc0b5afe310"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/27.webp",
+    "sha": "91e70362f44bef66e8fc0f94b3681666fcfcad8b"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/28.webp",
+    "sha": "f81904eab976cb95f644f82d0b33cf03127f3cf2"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/29.webp",
+    "sha": "f9980fa7c1a4bc2ae3a590b3abf013b45c60c165"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/17.webp",
+    "sha": "f9521de91834e1d5cc8684d0c85a8855990d918a"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/16.webp",
+    "sha": "4241208beacc943890d2e4c79122ea1c3e85a987"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/15.webp",
+    "sha": "e77ed402b3c6f1bff505a5768b5be4b5b27841b8"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/39.webp",
+    "sha": "8f7ab2994e42465dc8bd22d0d1ab889b50287a75"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/05.webp",
+    "sha": "872c01ce3da5188b3b5238f60c003cab8b056047"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/20.webp",
+    "sha": "a5f262800ccff1c36f156ff5e50713c29a06c07c"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/23.webp",
+    "sha": "babbc778ed2f3abe1fab24e75a78434a4ebb1271"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/11.webp",
+    "sha": "1550dbaaa2250ccb4c744edc6b98eccbdb142a3b"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/34.webp",
+    "sha": "d22b87753c97f15f166ce4b94aa859a928812c09"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/42.webp",
+    "sha": "29f1849a44e14eb7df4b5e3d3cb83a4179ff1e2f"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/04.webp",
+    "sha": "b86ba01a1d005c13487ad5f5e8e0241b6e4b0390"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/19.webp",
+    "sha": "6ecad420b58ec0aeb68b048c6ba41cce82af8d4a"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/24.webp",
+    "sha": "4382064399356f9fef612fc42efa6d130c132091"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/18.webp",
+    "sha": "e74f29a7ac2494e332b15c8d0759e309eaf7c757"
+  },
+  {
+    "path": "assets/images/Clients/قلعة النخيل/44.webp",
+    "sha": "d42a00c302074161d2c18975415585bea5a4e7b4"
+  },
+  {
+    "path": "assets/images/Clients/01_LK/thumbnail.webp",
+    "sha": "177c62103e62a89264a0b366154edb475c3a7470"
+  },
+  {
+    "path": "assets/images/Clients/01_LK/6.webp",
+    "sha": "e92119f16775f36d18a7cb8d314ba0de7ed8cb8e"
+  },
+  {
+    "path": "assets/images/Clients/01_LK/4.webp",
+    "sha": "e7427acf220c986f0a26dace12df45dabf390b96"
+  },
+  {
+    "path": "assets/images/Clients/01_LK/02.webp",
+    "sha": "8dfe7045a7b07c51a3eb4fcb35be614c0442b0d1"
+  },
+  {
+    "path": "assets/images/Clients/01_LK/01.webp",
+    "sha": "b81f9685c5f3abf0bc328e429d6a453723b81459"
+  },
+  {
+    "path": "assets/images/Clients/01_LK/03.webp",
+    "sha": "c821b9977695db48e04db0c5a422fde58d84f847"
+  },
+  {
+    "path": "assets/images/Clients/02_STOCK/01.webp",
+    "sha": "7c327f3574c6705f429311b863d18f4d16c25d0d"
+  },
+  {
+    "path": "assets/images/Clients/02_STOCK/thumbnail.webp",
+    "sha": "5f9af5935215d634ba55fb8a5aa90fb105e6cdb2"
+  },
+  {
+    "path": "assets/images/Clients/02_STOCK/02.webp",
+    "sha": "a8209f6e3b490735202c0bf41bfa66ae80b46c6f"
+  },
+  {
+    "path": "assets/images/Clients/02_STOCK/03.webp",
+    "sha": "7dfe5e2f4069837eb431641f5502c63a49c4d845"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/01.webp",
+    "sha": "478f67891ff40782ef646527314baa5249712e95"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/thumbnail.webp",
+    "sha": "1463d71410fd1a9f7004032f52c0a0c1aaf4d976"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/02.webp",
+    "sha": "1ac268be008ae54ad68eb748a0f857b1256704d6"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/03.webp",
+    "sha": "ae4e8c065cf1136c592d56a1c700cb1f6ff80f07"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/04.webp",
+    "sha": "32b16beee3877faae3f6f1fa035967cf7331b9b5"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/05.webp",
+    "sha": "ac65872d161df41d3d8026a60d22e9bbe243e007"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/06.webp",
+    "sha": "1c326d6c8df0ffa67d08a5cf68999101e45b3f7d"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/07.webp",
+    "sha": "08ccc942086672d331ef9f0c8e6e64700324c955"
+  },
+  {
+    "path": "assets/images/Clients/03_ELSAFA & ALMARWA/08.webp",
+    "sha": "dcd78a817a6d53cf658bc5e288a95b2eb520d8fe"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/21.webp",
+    "sha": "f1b7a4fb725926da623d316bf53762cd8f09398b"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/22.webp",
+    "sha": "ff3cf8a0f77490daabfb6af6c586f4bb3fa01d77"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/13.webp",
+    "sha": "ef058c3b6fcee6d1d9533845940c181b68dc02ea"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/17.webp",
+    "sha": "032ee74c43c5da8e4a0941b23190957a581a2431"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/16.webp",
+    "sha": "4c9fc89fae39966ea836434da966bd5968749238"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/14.webp",
+    "sha": "d0e83d5150eac50444a74c63c61f5664c4b08cb8"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/15.webp",
+    "sha": "4cc2f9ec3d7112e7ecf91921b8c1dde56c980f19"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/18.webp",
+    "sha": "0f1db314d52165e998f1b5451d8d0089b2307769"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/19.webp",
+    "sha": "b239c280dc69eaefc80ccabcd06407a9ec3684a8"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/20.webp",
+    "sha": "e3b442cf7715e3c3fcf3094af346eeeba6790ccf"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/12.webp",
+    "sha": "7bb285dfcebd74cad5d8e3b143a6d79a81ddff6e"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/11.webp",
+    "sha": "0178cee329b818b56b2632ecad42b379a69e3e62"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/03.webp",
+    "sha": "df80ff7f5b2a03f43e251f7c336604e546a54931"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/09.webp",
+    "sha": "b2eff0207d534dd5738aee6c89447932443ca19d"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/01.webp",
+    "sha": "0a7a1d254df4c3a41be6b906f94114e26d8a9f17"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/08.webp",
+    "sha": "d03b3010cb68c82493d63ed39c80218d925812dc"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/02.webp",
+    "sha": "1881cfc89b4a8ae4a2a2481bbe8997b558c61fa3"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/10.webp",
+    "sha": "dc3acacd26f647ba35df1ef898b7757da6d8acaf"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/06.webp",
+    "sha": "d14a3412a06b4cd76abf350d7ec310f15bd1e4ba"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/05.webp",
+    "sha": "67d9f3ec70abfb71e987526134aac5a0b23d3db6"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/thumbnail.webp",
+    "sha": "684af1f412d235bfa28f8494662da3ac084b7725"
+  },
+  {
+    "path": "assets/images/Clients/04_Tegan/07.webp",
+    "sha": "dcfd43114afff155821cd8846c638291acd94ae0"
+  }
+]

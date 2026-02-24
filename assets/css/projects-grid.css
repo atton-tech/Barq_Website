@@ -1,0 +1,319 @@
+/* 
+ * Client Projects Grid Styles
+ * Modern, responsive grid with hover intent and vertical marquee animation.
+ */
+
+/* Wider Container for Projects Page to use more screen space */
+.projects-page .container {
+    width: 95%;
+    max-width: 1800px; /* Remove max-width constraint to allow full width on large screens */
+}
+
+/* Grid Container */
+.projects-grid {
+    display: grid;
+    /* Force exactly 3 columns */
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px; 
+    padding: 20px 0;
+    width: 100%;
+}
+
+/* Response adjustments for different screen sizes */
+
+/* Tablet landscape */
+@media (max-width: 1200px) {
+    .projects-grid {
+        gap: 25px;
+    }
+}
+
+/* Tablet portrait */
+@media (max-width: 900px) {
+    .projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+    
+    .client-name-overlay h3 {
+        font-size: 1.5rem;
+    }
+}
+
+/* Tablet portrait - 768px */
+@media (max-width: 768px) {
+    .client-card {
+        aspect-ratio: 4 / 3;
+    }
+    
+    .card-thumbnail {
+        object-position: center top;
+    }
+}
+
+/* Large phone - 600px */
+@media (max-width: 600px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .client-card {
+        aspect-ratio: 16 / 12;
+    }
+    
+    .client-name-overlay {
+        padding: 15px;
+    }
+    
+    .client-name-overlay h3 {
+        font-size: 1.4rem;
+    }
+    
+    .marquee-overlay {
+        width: 92vw;
+        max-width: 92vw;
+        height: 75vh;
+        height: 75dvh;
+        border-radius: 14px;
+    }
+}
+
+/* Medium phone - 480px / 425px */
+@media (max-width: 480px) {
+    .client-card {
+        aspect-ratio: 4 / 3;
+        border-radius: 10px;
+    }
+    
+    .client-name-overlay h3 {
+        font-size: 1.2rem;
+    }
+    
+    .marquee-overlay {
+        width: 95vw;
+        max-width: 95vw;
+        height: 70vh;
+        height: 70dvh;
+        border-radius: 12px;
+    }
+}
+
+/* Small phone - 375px */
+@media (max-width: 375px) {
+    .client-card {
+        aspect-ratio: 4 / 3;
+    }
+    
+    .projects-grid {
+        gap: 15px;
+    }
+    
+    .client-name-overlay h3 {
+        font-size: 1.1rem;
+    }
+    
+    .marquee-overlay {
+        width: 96vw;
+        max-width: 96vw;
+        height: 65vh;
+        height: 65dvh;
+    }
+}
+
+/* Extra small phone - 320px */
+@media (max-width: 320px) {
+    .client-card {
+        aspect-ratio: 1 / 1;
+        border-radius: 8px;
+    }
+    
+    .projects-grid {
+        gap: 12px;
+    }
+    
+    .client-name-overlay {
+        padding: 10px;
+    }
+    
+    .client-name-overlay h3 {
+        font-size: 1rem;
+    }
+}
+
+.client-card {
+    position: relative;
+    width: 100%;
+    /* Aspect ratio for the card (e.g., 3:4 or 9:16 for vertical feel) */
+    aspect-ratio: 3 / 4; 
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #1a1a1a;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.client-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+}
+
+/* Default State: Thumbnail */
+.card-thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transition: opacity 0.3s ease;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.client-name-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    /* Stronger, more visible gradient */
+    background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.7) 40%, transparent 100%);
+    color: #fff;
+    z-index: 2;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.client-name-overlay h3 {
+    margin: 0;
+    font-size: 1.8rem; /* Much larger text */
+    font-weight: 800; /* Extra bold */
+    text-shadow: 0 2px 8px rgba(0,0,0,0.9); /* Heavy shadow for readability */
+    letter-spacing: 0.5px;
+}
+
+/* Active State: Marquee Overlay (Now a Pop-up) */
+.marquee-overlay {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* Start state: slightly smaller and centered */
+    transform: translate(-50%, -50%) scale(0.9);
+    width: 600px; /* Generous width for the pop-up */
+    max-width: 90vw;
+    height: 80vh; /* Height of the pop-up */
+    background-color: #121212;
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.1);
+    overflow: hidden;
+    z-index: 2000; /* Highest z-index to sit on top of everything */
+    opacity: 0;
+    visibility: hidden; /* Hide from layout when not active */
+    pointer-events: none;
+    transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1); /* Elastic/Bouncy pop effect */
+}
+
+/* Add a close hint or instruction if needed, but for now simple hover-exit works */
+.marquee-overlay::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to top, #121212, transparent);
+    z-index: 10;
+    pointer-events: none;
+}
+
+/* Backdrop for the pop-up */
+.client-card::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    z-index: 999;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+    backdrop-filter: blur(5px);
+}
+
+/* Modern, responsive grid with hover intent and vertical marquee pop-up animation. */
+
+/* When a card is active, the overlay becomes visible and scales up */
+.client-card.active .marquee-overlay {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    /* Transformation creates the pop-up effect */
+    transform: translate(-50%, -50%) scale(1);
+    box-shadow: 0 32px 64px -12px rgba(0, 0, 0, 0.9);
+}
+
+/* Ensure z-index management when active */
+.client-card.active {
+    z-index: 1000;
+}
+
+/* Backdrop for the pop-up */
+.client-card.active::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.85); /* Darker backdrop */
+    backdrop-filter: blur(8px);
+    z-index: 1500; /* Behind the marquee-overlay (2000) but above everything else */
+    opacity: 0;
+    animation: fadeIn 0.4s forwards;
+    cursor: crosshair; /* Hint that clicking/leaving closes it */
+}
+
+@keyframes fadeIn {
+    to { opacity: 1; }
+}
+
+/* The wrapper that moves */
+.marquee-track {
+    display: flex;
+    flex-direction: column;
+    /* Ensure track fills the container */
+    width: 100%;
+    will-change: transform;
+}
+
+.client-card.active .marquee-track {
+    animation: marquee-fall 16s linear infinite; /* Slower animation for the larger space */
+    width: 100%; /* Ensure track fills the width */
+}
+
+/* Ensure images fill the width of the larger popup */
+.marquee-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    margin-bottom: 0px; 
+}
+
+/* 
+ * Vertical Infinite Marquee Keyframes
+ * transform: translateY(-50%) assumes the content is duplicated (AB)
+ * and we scroll from 0 to -50% (start of A to start of B), then loop resets to 0 (start of A).
+ */
+@keyframes marquee-fall {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-50%);
+    }
+}
